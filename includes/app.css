@@ -1,0 +1,19 @@
+.btn-common {
+    margin: 0px !important;
+    padding: 0px 2px !important;
+}
+.btn-common .btn-large {
+    margin: 2px !important;
+    width: 100% !important;
+    border-radius: 5px !important;
+}
+.container-main {
+    background-color: rgba(255, 255, 255, 0.93) !important;
+}
+.readable {
+    font-size: 2em;
+    font-weight: bold;
+}
+input {
+    cursor: default;
+}

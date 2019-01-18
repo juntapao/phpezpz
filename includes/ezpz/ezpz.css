@@ -1,0 +1,31 @@
+.bg-purple {
+    background-color: #563d7c;
+}
+body {
+    background-attachment: fixed !important; 
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column; 
+}
+.container-large {
+    width: 95% !important;
+}
+.container-main {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+.container-small {
+    width: 45% !important;
+}
+main {
+    flex: 1 0 auto;
+}
+footer .container {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}

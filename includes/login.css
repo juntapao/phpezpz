@@ -1,0 +1,12 @@
+.cashierName {
+   margin-bottom: 20px;
+   transition: 0.8s;
+   width: 100%;
+}
+#cashierPanel {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+#login {
+    width: 100%;
+}
